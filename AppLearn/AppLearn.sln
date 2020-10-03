@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppLearn", "AppLearn\AppLearn.csproj", "{3789AB6F-6D40-4553-9CCA-420869CD0349}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3789AB6F-6D40-4553-9CCA-420869CD0349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3789AB6F-6D40-4553-9CCA-420869CD0349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3789AB6F-6D40-4553-9CCA-420869CD0349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3789AB6F-6D40-4553-9CCA-420869CD0349}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F23300A-C6D2-4B0C-9139-18A837D71BF0}
+	EndGlobalSection
+EndGlobal

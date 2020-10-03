@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo se usa en el proceso de publicación y empaquetado del proyecto web. Para personalizar el comportamiento de este proceso,
+edite el archivo MSBuild. Visite https://go.microsoft.com/fwlink/?LinkID=208121 para obtener más información. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA9cbA2ife1kaJYK3mD2H62AAAAAACAAAAAAAQZgAAAAEAACAAAACOiolm4CEVCQveca+LN8u81th2O/r9eddbknDuTaKfSAAAAAAOgAAAAAIAACAAAAA4wBnuo/IwADlZrXpyhGhdogHbbjao8vDHuUI1/PQiMoAAAABlXs9H1PLTwqqA6nEzJgQY1xMalYTY4A5N10Kj2unjvPEwRe8RuuyBIZL4v35ukigCMAwptbugPHMK8QaUBy0uSxI5DdIsZdu/fG21EeDpioYkh9h76jWUwA3dX1lTbAacR/f1UVYQO0kLc1daiPrnok+Nv19JvIqo43kcWe6HAUAAAAC7ICBdyWX+/Al/w4jUMIGArVIGS4O2vmoRoCbCDRjfbY14A3ZlC6Ona0Hp9i+w5xIb7cnJ+UJDyCYlxua7p4ji</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Database=AppLearn%3b Data Source=applearnserver.mysql.database.azure.com%3b User Id=brayanac%40applearnserver%3b Password=Fatforever1</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
